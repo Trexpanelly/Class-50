@@ -1,0 +1,18 @@
+* {
+    background-color: rgb(8, 255, 173);
+}
+img {
+    border: solid;
+    border-color: palegoldenrod;
+    border-width: 7px;
+}
+
+.vide {
+    font-size: 27px;
+    color :chocolate
+}
+
+.half{
+    display:flex;
+    justify-content: space-evenly
+}
